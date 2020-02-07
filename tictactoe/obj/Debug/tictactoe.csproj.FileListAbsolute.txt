@@ -1,0 +1,6 @@
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\G_Cankar\source\repos\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
